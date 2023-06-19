@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "28f10d287f2702204f99977791288930a98d5315ccd1091b7364e5aca3b8763e"
+build_start_time: [1687134736, 700636000]
+build_end_time: [1687134736, 731957000]
+inputs:
+  "/Users/ck-intosh/.pub-cache/hosted/pub.dev/window_manager-0.3.4/macos/Classes/WindowManager.swift": !private [1687133884, 275818355]
+  "/Users/ck-intosh/.pub-cache/hosted/pub.dev/window_manager-0.3.4/macos/Classes/WindowManagerPlugin.swift": !private [1687133884, 275479734]

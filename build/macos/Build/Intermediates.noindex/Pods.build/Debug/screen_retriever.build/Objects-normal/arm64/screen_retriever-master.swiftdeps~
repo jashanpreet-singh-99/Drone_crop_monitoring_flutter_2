@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "05aa5c70ed8e2a010ce975a3f3f920f1e53786cfb5e9c072065b9772ad69e543"
+build_start_time: [1687134736, 700636000]
+build_end_time: [1687134736, 731900000]
+inputs:
+  "/Users/ck-intosh/.pub-cache/hosted/pub.dev/screen_retriever-0.1.6/macos/Classes/ScreenRetrieverPlugin.swift": !private [1680458869, 49244503]

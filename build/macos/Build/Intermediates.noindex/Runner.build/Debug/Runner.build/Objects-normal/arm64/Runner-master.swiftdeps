@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "53f2cfb380c190e29db7b0e74c4e88a092f46db0364ff02b25643fdda89183f7"
+build_start_time: [1687156404, 235450000]
+build_end_time: [1687156406, 77595000]
+inputs:
+  "/Users/ck-intosh/Downloads/COMP_8967/Project/App/macos/Flutter/GeneratedPluginRegistrant.swift": [1687156398, 828869382]
+  "/Users/ck-intosh/Downloads/COMP_8967/Project/App/macos/Runner/AppDelegate.swift": [1682051153, 791407116]
+  "/Users/ck-intosh/Downloads/COMP_8967/Project/App/macos/Runner/MainFlutterWindow.swift": [1682051153, 793253332]
